@@ -5,4 +5,6 @@ __pycache__/
 
 # Ambiente virtual (se estiver usando)
 venv/
-.env/
+.env
+__pycache__/
+venv/
